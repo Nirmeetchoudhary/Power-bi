@@ -2,7 +2,7 @@
 
 Welcome to the **Mahadev E-Commerce Power BI Dashboard** – a comprehensive and interactive data visualization project focused on analyzing sales, profit, customer behavior, and product performance for an e-commerce business.
 
-![Mahadev E-Commerce Dashboard Screenshot](https://github.com/user-attachments/assets/a74c78b1-ff48-48cd-836a-466e4e98b326)
+![Screenshot 2024-11-25 114345](https://github.com/user-attachments/assets/a74c78b1-ff48-48cd-836a-466e4e98b326) 
 
 ---
 
