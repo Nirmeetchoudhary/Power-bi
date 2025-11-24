@@ -1,4 +1,3 @@
-Thanks! Based on your shared HR Dashboard image and previous question, here's an improved and **simplified README snippet** for your Power BI project — tailored for **personal or portfolio use**:
 
 ---
 
@@ -35,5 +34,3 @@ This interactive **HR Dashboard** was built using **Power BI** to analyze key hu
 If you have suggestions or feedback, feel free to leave a comment or connect with me on GitHub!
 
 ---
-
-Would you like me to generate the complete README file content for you to copy directly?
